@@ -13,11 +13,11 @@ It will count up to any number the user inputs.
 * Example Input: 8
 * Example Output: [1, 2, 3, 4, 5, 6, 7, 8]
 
-It will tell you all the lucky numbers (numbers that includes 8).
+It will tell you all the lucky numbers (numbers that are divisible by 8).
 * Example Input: 8
 * Example Output: [1, 2, 3, 4, 5, 6, 7, solucky!]
 
-It will tell you all the unlucky numbers (numbers that includes 4).
+It will tell you all the unlucky numbers (numbers that are divisible by 4).
 * Example Input: 8
 * Example Output: [1, 2, 3, unlucky, 5, 6, 7, solucky!]
 

@@ -33,7 +33,7 @@ To clone this project, please follow these steps
 This project is now yours! Have fun!
 
 ## Known Bugs
-Hmmm ...
+I originally intended for my calculations to check if the number includes 4 its unlucky, if the number includes 8 its lucky ... etc, which is more authentic to Chinese culture. I had planned to use the .includes(); function outlined here https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes. However, I kept getting an error "TypeError: index.includes is not a function". Then I spent over an hour researching on Google and found many has had similar experiences, so I explored a few diff possible solutions: .indexOf(), .has() .... but with no success, so I eventually changed my calculations to use divisible by using the % calculation. I've // out my original erroneous calc.
 
 ## Support and Contact Details
 If you have any questions, ideas and concerns please feel free to email me: <zoezo85@gmail.com>.

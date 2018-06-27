@@ -1,7 +1,7 @@
 # NUMBERS FOR SUPERSTITIOUS TURRETS
 ## A JAVASCRIPT ARRAYS & LOOPING DEMO
 
-#### Epicodus Independent Project, last edited June 24th, 2018.
+#### Epicodus Independent Project, last edited June 27th, 2018.
 
 #### By Zoe Zhou
 

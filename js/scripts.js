@@ -1,4 +1,6 @@
-//BIZ LOGIC
+//BUSINESS LOGIC
+var index;
+var result;
 var numArray = [];
 var arraySuper = [];
 var superLogic = function(inputNum) {
@@ -30,6 +32,8 @@ $(document).ready(function() {
     event.preventDefault();
     var inputNum = parseInt($('input#number').val());
     //CALLBACK
+    $("ul#results").empty();
+    $("ul#results").show();
     superLogic(inputNum);
     //console.log(numArray);
     //console.log(arraySuper);
